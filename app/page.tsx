@@ -62,7 +62,7 @@ const savouries = [
   { id: 11, name: 'Finger Chips', isBestSeller: true, image: '/images/FingerChips.jpg' },
   { id: 12, name: 'Karam Gavvalu', isBestSeller: true, image: '/images/KaramGavvalu.jpg' },
   { id: 13, name: 'Kara Ompodi', isBestSeller: true, image: '/images/KaraOmpodi.jpg' },
-  { id: 14, name: 'Kodem Billalu', isBestSeller: true, image: '/images/KodemBillalu.jpg' },
+  { id: 14, name: 'Kodem Billalu', isBestSeller: true, image: '/images/kodemBillalu.jpg' },
   { id: 15, name: 'Miriyala Muruku', isBestSeller: true, image: '/images/MiriyalaMuruku.jpg' },
   { id: 16, name: 'Motaas', isBestSeller: true, image: '/images/Motaas.jpg' },
   { id: 17, name: 'Masala Palli', isBestSeller: true, image: '/images/MslaPalli.jpg' },

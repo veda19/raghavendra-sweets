@@ -291,7 +291,7 @@ Founded in 2000 in the sacred city of Tirupati, Sri Raghavendra Savoury & Sweet 
 </div>
 <button
   onClick={() => router.push('/')}
-  className={` ml-4 relative top-10  mb-2 cursor-pointer rounded-lg flex items-center gap-1 p-3 pl-6 pr-6  ${theme === 'dark' ? 'bg-gray-700 text-white hover:bg-gray-600' : 'bg-gray-200 hover:bg-gray-300'} transition-colors`}
+  className={` ml-4 relative top-10  mb-2 cursor-pointer rounded-lg flex items-center gap-1 p-3 pl-6 pr-6  ${theme === 'dark' ? 'bg-gray-700 text-white hover:bg-gray-600' : 'bg-gray-200 text-[black] hover:bg-gray-300'} transition-colors`}
 >
   ← Back
 </button>

@@ -28,15 +28,15 @@ const sweets: Sweet[] = [
   { id: 4, name: 'Malai Kaja', isBestSeller: true, images: ['/images/MalaiKaja.jpg', '/images/MalaiKajaGlass.jpg'] },
   { id: 5, name: 'Ghee Mysorepak', isBestSeller: true, images: ['/images/GheeMysorepak.jpg', '/images/GheeMysorepakGlass.jpg'] },
   { id: 6, name: 'Sugar Free Laddu', isBestSeller: true, images: ['/images/SugarFreeLaddu.jpg', '/images/SugarFreeLadduGlass.jpg'] },
-  { id: 7, name: 'Kaju Pista Roll', isBestSeller: true, images: ['/images/kajuPistaroll.jpg', '/images/kajuPistarollGlass.jpg'] },
+  { id: 7, name: 'Kaju Pista Roll', isBestSeller: true, images: ['/images/KajuPistaroll.jpg', '/images/KajuPistarollGlass.jpg'] },
   { id: 8, name: 'Kaju Barfi', isBestSeller: true, images: ['/images/kajuBarfi.jpg', '/images/KajuBarfiGlass.jpg'] },
-  { id: 9, name: 'Dry Fruit Laddu', isBestSeller: true, images: ['/images/dryfruitladdu.jpg', '/images/DryFruitladduGlass.jpg'] },
+  { id: 9, name: 'Dry Fruit Laddu', isBestSeller: true, images: ['/images/DryFruitladdu.jpg', '/images/DryFruitladduGlass.jpg'] },
   { id: 10, name: 'Dry Fruit Halwa', isBestSeller: true, images: ['/images/DryFruitHalwa.jpg', '/images/DryFruitHalwaGlass.jpg'] },
   { id: 11, name: 'Pistachid Halwa', isBestSeller: true, images: ['/images/PistachidHalwa.jpg', '/images/PistachidHalwaGlass.jpg'] },
   { id: 12, name: 'Jangry', isBestSeller: true, images: ['/images/Jangry.jpg', '/images/JangryGlass.jpg'] },
   { id: 13, name: 'Carrot Mysorepak', isBestSeller: true, images: ['/images/CarrotMysorepak.jpg', '/images/CarrotMysorepakGlass.jpg'] },
   { id: 14, name: 'Horlicks Barfi', isBestSeller: true, images: ['/images/HorlicksBarfi.jpg', '/images/HorlicksBarfiGlass.jpg'] },
-  { id: 15, name: 'KajjiKayalu', isBestSeller: true, images: ['/images/KajjiKayalu.jpg', '/images/KajjiKayalu.jpg'] },
+  { id: 15, name: 'KajjiKayalu', isBestSeller: true, images: ['/images/kajjikayalu.jpg', '/images/kajjikayalu.jpg'] },
   { id: 16, name: 'Ajmer Kalakand', isBestSeller: true, images: ['/images/AjmerKalakand.jpg', '/images/AjmerKalakandGlass.jpg'] },
   { id: 17, name: 'Horlicks Kalakand', isBestSeller: true, images: ['/images/HorlicksKalakand.jpg', '/images/HorlicksKalakandGlass.jpg'] },
   { id: 18, name: 'Badam Ice Barfi', isBestSeller: true, images: ['/images/BadamIceBarfi.jpg', '/images/BadamIceBarfiGlass.jpg'] },
@@ -54,7 +54,7 @@ const sweets: Sweet[] = [
   { id: 30, name: 'Boast Barfi', isBestSeller: true, images: ['/images/BoastBarfi.jpg', '/images/BoastBarfi.jpg'] },
   { id: 31, name: 'Miriyala Kaju Fry', isBestSeller: true, images: ['/images/MiriyalaKajuFry.jpg', '/images/MiriyalaKajuFry.jpg'] },
   { id: 32, name: 'Malpuri', isBestSeller: true, images: ['/images/Malpuri.jpg', '/images/MalpuriGlass.jpg'] },
-  { id: 33, name: 'Butterstoch Kowa', isBestSeller: true, images: ['/images/Butterstochkova.jpg', '/images/ButterstochkovaGlass.jpg'] },
+  { id: 33, name: 'Butterstoch Kowa', isBestSeller: true, images: ['/images/ButterstochKova.jpg', '/images/ButterstochKovaGlass.jpg'] },
 ];
 
 

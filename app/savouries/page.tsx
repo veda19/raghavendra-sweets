@@ -35,7 +35,7 @@ const savouries: Savoury[] = [
   { id: 11, name: 'Finger Chips', isBestSeller: true, images: ['/images/FingerChips.jpg', '/images/FingerChipsGlass.jpg'] },
   { id: 12, name: 'Karam Gavvalu', isBestSeller: true, images: ['/images/KaramGavvalu.jpg', '/images/KaramGavvalu.jpg'] },
   { id: 13, name: 'Kara Ompodi', isBestSeller: true, images: ['/images/KaraOmpodi.jpg', '/images/KaraOmpodiGlass.jpg'] },
-  { id: 14, name: 'Kodem Billalu', isBestSeller: true, images: ['/images/KodemBillalu.jpg', '/images/KodemBillaluGlass.jpg'] },
+  { id: 14, name: 'Kodem Billalu', isBestSeller: true, images: ['/images/kodemBillalu.jpg', '/images/kodemBillaluGlass.jpg'] },
   { id: 15, name: 'Miriyala Muruku', isBestSeller: true, images: ['/images/MiriyalaMuruku.jpg', '/images/MiriyalaMurukuGlass.jpg'] },
   { id: 16, name: 'Motaas', isBestSeller: true, images: ['/images/Motaas.jpg', '/images/MotaasGlass.jpg'] },
   { id: 17, name: 'Masala Palli', isBestSeller: true, images: ['/images/MslaPalli.jpg', '/images/MslaPalli.jpg'] },

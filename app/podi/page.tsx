@@ -22,7 +22,7 @@ interface CarouselProps {
 }
 
 const podis: Podi[] = [
-  { id: 1, name: 'Idli Karam', isBestSeller: true, images: ['/images/IdliKaram.jpg'] },
+  { id: 1, name: 'Idli Karam', isBestSeller: true, images: ['/images/Idlikaram.jpg'] },
   { id: 2, name: 'Senagapappu Karam', isBestSeller: true, images: ['/images/SenagapappuKaram.jpg'] },
   { id: 3, name: 'Karivepaku Karam', isBestSeller: true, images: ['/images/CurryLeafPodi.jpg'] },
 ];
