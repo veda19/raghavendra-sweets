@@ -20,7 +20,7 @@ const sweets = [
   { id: 6, name: 'Sugar Free Laddu', isBestSeller: true, image: '/images/SugarFreeLaddu.jpg' },
   { id: 7, name: 'Kaju Pista Roll', isBestSeller: true, image: '/images/KajuPistaroll.jpg' },
   { id: 8, name: 'Kaju Barfi', isBestSeller: true, image: '/images/kajuBarfi.jpg' },
-  { id: 9, name: 'Dry Fruit Laddu', isBestSeller: true, image: '/images/DryFruitladdu.jpg' },
+  { id: 9, name: 'Dry Fruit Laddu', isBestSeller: true, image: '/images/DryFruitLaddu.jpg' },
   { id: 10, name: 'Dry Fruit Halwa', isBestSeller: true, image: '/images/DryFruitHalwa.jpg' },
   { id: 11, name: 'Pistachid Halwa', isBestSeller: true, image: '/images/PistachidHalwa.jpg' },
   { id: 12, name: 'Jangry', isBestSeller: true, image: '/images/Jangry.jpg' },
