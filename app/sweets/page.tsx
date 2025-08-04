@@ -30,7 +30,7 @@ const sweets: Sweet[] = [
   { id: 6, name: 'Sugar Free Laddu', isBestSeller: true, images: ['/images/SugarFreeLaddu.jpg', '/images/SugarFreeLadduGlass.jpg'] },
   { id: 7, name: 'Kaju Pista Roll', isBestSeller: true, images: ['/images/KajuPistaroll.jpg', '/images/KajuPistarollGlass.jpg'] },
   { id: 8, name: 'Kaju Barfi', isBestSeller: true, images: ['/images/kajuBarfi.jpg', '/images/KajuBarfiGlass.jpg'] },
-  { id: 9, name: 'Dry Fruit Laddu', isBestSeller: true, images: ['/images/DryFruitladdu.jpg', '/images/DryFruitladduGlass.jpg'] },
+  { id: 9, name: 'Dry Fruit Laddu', isBestSeller: true, images: ['/images/DryFruitLaddu.jpg', '/images/DryFruitLadduGlass.jpg'] },
   { id: 10, name: 'Dry Fruit Halwa', isBestSeller: true, images: ['/images/DryFruitHalwa.jpg', '/images/DryFruitHalwaGlass.jpg'] },
   { id: 11, name: 'Pistachid Halwa', isBestSeller: true, images: ['/images/PistachidHalwa.jpg', '/images/PistachidHalwaGlass.jpg'] },
   { id: 12, name: 'Jangry', isBestSeller: true, images: ['/images/Jangry.jpg', '/images/JangryGlass.jpg'] },
